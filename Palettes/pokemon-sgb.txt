@@ -1,0 +1,9 @@
+;paint.net Palette File
+;Downloaded from Lospec.com/palette-list
+;Palette Name: Pokemon (SGB)
+;Description: A palette used by <a href="https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red_and_Blue">Pokemon Red and Blue</a> for certain elements when played on the <a href="https://en.wikipedia.org/wiki/Game_Boy_Color">Gameboy Color</a> or <a href="https://en.wikipedia.org/wiki/Super_Game_Boy">Super Gameboy</a>.
+;Colors: 4
+FF181010
+FF84739c
+FFf7b58c
+FFffefff
